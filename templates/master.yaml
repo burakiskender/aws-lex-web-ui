@@ -166,7 +166,7 @@ Mappings:
         # by using the Makefile under the build directory of this project.
         # See the README.md for instructions on how to use your own bucket.
         BootstrapBucket:
-            Value: aws-bigdata-blog
+            Value: chatworks
         BootstrapPrefix:
             Value: artifacts/aws-lex-web-ui/artifacts
         BootstrapSrcObject:

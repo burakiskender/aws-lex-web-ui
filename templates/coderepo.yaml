@@ -27,7 +27,7 @@ Parameters:
     SourceBucket:
         Description: S3 bucket where the source is located
         Type: String
-        Default: aws-bigdata-blog
+        Default: chatworks
 
     SourceObject:
         Description: S3 object zip file containing the project source

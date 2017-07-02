@@ -16,7 +16,7 @@ Parameters:
     CustomResourceCodeBucket:
         Description: S3 bucket where the Lambda bundle is located
         Type: String
-        Default: aws-bigdata-blog
+        Default: chatworks
 
     CustomResourceCodeObject:
         Type: String

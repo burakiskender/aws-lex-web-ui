@@ -30,7 +30,7 @@ follow the steps below:
 
 1. Click the following CloudFormation button to launch your own copy of
 the sample application stack in the us-east-1 (N. Virginia) AWS region:
-[![cloudformation-launch-stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=lex-web-ui&templateURL=https://s3.amazonaws.com/aws-bigdata-blog/artifacts/aws-lex-web-ui/artifacts/templates/master.yaml).
+[![cloudformation-launch-stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=lex-web-ui&templateURL=https://s3.amazonaws.com/chatworks/artifacts/aws-lex-web-ui/artifacts/templates/master.yaml).
 You can accept the defaults in the CloudFormation Create Stack Wizard up
 until the last step. At the last step, when prompted to create the stack,
 select the checkmark that says: "I acknowledge that AWS CloudFormation
